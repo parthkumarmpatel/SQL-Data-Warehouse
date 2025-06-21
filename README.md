@@ -23,7 +23,6 @@ This project focuses on:
 
 ---
 
-## 📂 Repository Structure
 
 ## 📂 Repository Structure
 
