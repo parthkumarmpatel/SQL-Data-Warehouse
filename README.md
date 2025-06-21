@@ -25,12 +25,14 @@ This project focuses on:
 
 ## 📂 Repository Structure
 
-  sql-data-warehouse-project/
-  │
-  ├── datasets/ # Raw ERP and CRM CSV data files
-  │
-  ├── scripts/ # SQL scripts for schema creation, ETL, and queries
-  │
-  ├── docs/ # Architecture diagrams, schema designs, and notes
-  │
-  └── dashboards/ # Power BI or Excel dashboards (optional)
+sql-data-warehouse-project/
+│
+├── datasets/ # Raw ERP and CRM CSV data files
+│
+├── scripts/ # SQL scripts for schema creation, ETL, and queries
+│
+├── docs/ # Architecture diagrams, schema designs, and notes
+│
+└── dashboards/ # Power BI or Excel dashboards (optional)
+
+ 
