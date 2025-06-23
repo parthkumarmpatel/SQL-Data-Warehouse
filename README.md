@@ -38,7 +38,7 @@ sql-data-warehouse-project/
 └── dashboards/      # Power BI or Excel dashboards (optional)
 ```
 
-## 🔗 **Part of My ED Project**
+## 🔗 **Part of My EDA Project**
 👉 [View the full project here](https://github.com/parthkumarmpatel/SQL-Data-Warehouse)
 ## 🔗 **Part of My Data Analyst Portfolio Project**
 👉 [View the full project here](https://github.com/parthkumarmpatel/SQL-Data-Analyst-Portfolio-)
