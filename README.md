@@ -38,5 +38,16 @@ sql-data-warehouse-project/
 └── dashboards/      # Power BI or Excel dashboards (optional)
 ```
 
+## 🔗 **Part of My ED Project**
+👉 [View the full project here](https://github.com/parthkumarmpatel/SQL-Data-Warehouse)
+## 🔗 **Part of My Data Analyst Portfolio Project**
+👉 [View the full project here](https://github.com/parthkumarmpatel/SQL-Data-Analyst-Portfolio-)
+
+
+## ✨ Author
+**Parth Patel**  
+[LinkedIn](https://www.linkedin.com/in/parthkumar-patel21)
+[Github](https://github.com/parthkumarmpatel)
+[Gmail](connectpmpatel@gmail.com)
 
  
